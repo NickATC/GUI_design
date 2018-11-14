@@ -16,5 +16,9 @@ main folder with exercices.
 For a detailed tkinter manual, download from:
 https://infohost.nmt.edu/tcc/help/pubs/tkinter/tkinter.pdf
 
+Great website for free .ico images:
+http://www.iconarchive.com
+
+
 
 Use this files as you need.  Don't forget to mention me as the autor of them.
