@@ -6,13 +6,13 @@ These files will help in the development of the workshop:
 
 This repo contains:
 
-main folder with exercices.
-    images--> contains .ico files
-    solved_exercices--> contains the solutions to the exercices located on the main folder
-    DataBase--> contains files to create and manage a DB
-        images--> contains images (.ico and .gif) to add to the DB GUI.
-
-
+main folder with exercices.  
+    images--> contains .ico files  
+    solved_exercices--> contains the solutions to the exercices located on the main folder  
+    DataBase--> contains files to create and manage a DB  
+        images--> contains images (.ico and .gif) to add to the DB GUI.  
+  
+  
 For a detailed tkinter manual, download from:
 https://infohost.nmt.edu/tcc/help/pubs/tkinter/tkinter.pdf
 
