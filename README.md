@@ -19,6 +19,6 @@ https://infohost.nmt.edu/tcc/help/pubs/tkinter/tkinter.pdf
 Great website for free .ico images:
 http://www.iconarchive.com
 
-
+Here is the Power Point Presentation:  https://mega.nz/#!qd9AQK6L!ALN9Oe0jahkgetJ9PUzWugLPzXkaGpHwft3avqHhaXo
 
 Use this files as you need.  Don't forget to mention me as the autor of them.
